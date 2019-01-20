@@ -1,0 +1,27 @@
+[host] 
+host = localhost
+
+[bd]
+nombre = oposiciones
+
+[1]
+usuario = administrador
+password = 
+
+[2]
+usuario = gestor
+password = 
+
+[3]
+usuario= registrado
+password = 
+
+[4]
+usuario = noregistrado
+password = 
+
+
+[charset]
+charset = utf8
+
+
